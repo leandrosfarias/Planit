@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277B3BC0-0A46-4432-AD85-756CBAA88FE7}|Planit.Infrastructure\\Planit.Infrastructure.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277B3BC0-0A46-4432-AD85-756CBAA88FE7}|Planit.Infrastructure\\Planit.Infrastructure.csproj|solutionrelative:planit.infrastructure\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1B7B10-D2A2-4E89-8429-A80158F20A54}|Planit.Api\\Planit.Api.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F1B7B10-D2A2-4E89-8429-A80158F20A54}|Planit.Api\\Planit.Api.csproj|solutionrelative:planit.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|solutionrelative:planit.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|solutionrelative:planit.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.domain\\entities\\statustaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|solutionrelative:planit.domain\\entities\\statustaskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|c:\\users\\leand\\documents\\github\\planit\\planit.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9679689B-F502-4A72-83D0-418C7B9B0D26}|Planit.Domain\\Planit.Domain.csproj|solutionrelative:planit.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Planit.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Api\\appsettings.json",
+              "RelativeToolTip": "Planit.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T12:50:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Planit.Infrastructure\\Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Infrastructure\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "Planit.Infrastructure\\Db\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:40:21.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusTaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\StatusTaskItem.cs",
+              "RelativeDocumentMoniker": "Planit.Domain\\Entities\\StatusTaskItem.cs",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\StatusTaskItem.cs",
+              "RelativeToolTip": "Planit.Domain\\Entities\\StatusTaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:27:05.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Planit.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Planit.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:21:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Planit.Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Planit.Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:16:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Planit.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\leand\\Documents\\GitHub\\Planit\\Planit.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Planit.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:56:15.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

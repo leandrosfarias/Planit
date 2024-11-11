@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Planit.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754820dc53b7325fd618ef9c8188c1094138a61c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Planit.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Planit.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
